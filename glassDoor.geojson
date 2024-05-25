@@ -1,0 +1,29 @@
+{
+	"type": "FeatureCollection",
+	"generator": "smartcity",
+	"copyright": "Smartcity",
+	"timestamp": "2021-05-27T09:28:58Z",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"Building name": "Glass door",
+				"height": 150,
+				"idb": "7"
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+                        [106.7057527544293, 10.77570953081741, 0],
+                        [106.70578225807367, 10.775692882492482, 0],
+                        [106.70571169881987, 10.775537676059011, 0],
+                        [106.70568152396845, 10.775550818464556, 0],
+                        [106.70575394885053, 10.7757107749387, 0]
+					]
+				]
+			},
+			"id": "pp7"
+		}
+	]
+}
